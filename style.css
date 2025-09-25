@@ -1,0 +1,15 @@
+#main_text{
+    background-color: blue;
+    color: brown;
+}
+
+#toolbar{
+    display: flex;
+}
+#users_icon{
+    margin-right: 5;
+}
+#dawn_manu{
+    
+    margin-left: 5;
+}
